@@ -37,6 +37,6 @@
 
 <br />
 
-![](https://komarev.com/ghpvc/?username=Abba00&color=green)
+![](https://komarev.com/ghpvc/?username=Abba00&color=blue)
 ---
 [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Abba00&theme=transparent)](https://git.io/streak-stats)
