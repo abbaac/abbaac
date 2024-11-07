@@ -1,11 +1,11 @@
-# Hi there, I'm Abba 👾 
+# Hi, I'm Abba 👾 
 
-## I'm a Data Scientist & Software Developer
+## I'm a Software Engineer
 
-- 💡 I’m currently studying machine learning workflows
-- 💪 I’m open to innovative conversations and collaborations
-- 🎯 I plan to learn how to build useful machine learning pipelines and build a wesbite
-- ⚽ Fun fact: I'm addicted to soccer 
+- 🎯 I’m probably in the middle of a fullstack project right now.
+- 🐍 My favourite languages are Python and JavaScript
+- 💪 I’m open to innovative conversations and collaborations.
+- ⚽ I'm quite addicted to football. 
 
 ### Connect with me:
 
