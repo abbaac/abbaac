@@ -4,7 +4,6 @@
 
 - 🎯 I’m probably in the middle of a fullstack project right now.
 - 🐍 My favourite languages are Python and JavaScript
-- 💪 I’m open to innovative conversations and collaborations.
 - ⚽ I'm quite addicted to football. 
 
 ### Connect with me:
